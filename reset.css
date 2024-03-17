@@ -4,11 +4,6 @@
     border: 0;
     box-sizing: border-box;
   }
-  
-  a {
-    text-decoration: none;
-  }
-  
   ul,
   ol {
     list-style: none;
@@ -21,4 +16,7 @@
   
   body {
     scroll-behavior: smooth;
+  }
+   a {
+    color: white;
   }

@@ -35,14 +35,21 @@
     text-decoration: underline;
  }
  .languages {
-    margin-left: 75px;
+    margin-left: 65px;
  }
 .mainpage {
     margin-left: 100px;
 }
 .languages-item {
-    margin-left: 20px;
+    margin-left: 30px;
 }
+.ua {
+    color: white;
+    text-decoration: underline;
+    }
+    .eng {
+    color: #c7c7c7;
+    }
 /*SECOND SECTION*/
 .mainfirst {
     background-image: url(./fonone.webp);
@@ -431,4 +438,13 @@ color: #FFFF;
     #ce3aff 62.84%,
     #8961ff 100%
   );
+}
+.firstonly {
+color: white;
+}
+.secondonly {
+color: white;
+}
+.thirdonly {
+color: white;
 }
