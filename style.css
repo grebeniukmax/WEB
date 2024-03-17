@@ -43,6 +43,13 @@
 .languages-item {
     margin-left: 20px;
 }
+.eng {
+  color: white;
+  text-decoration: underline;
+}
+.ua {
+  color: #c7c7c7;
+}
 /*SECOND SECTION*/
 .mainfirst {
     background-image: url(./fonone.webp);
